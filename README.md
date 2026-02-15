@@ -1,7 +1,7 @@
 ## Hey 👋 I'm Isaiah Dowlen
 
 ### About Me
-I'm currently studying Full Stack Development for my Bachelor of Science at Arizona State University.
+I'm currently studying Architectural Studies for my Bachelor of Science in Design at Arizona State University.
 ![alt text](https://setlivewallpaper.com/wp-content/uploads/2024/02/Luffy-Gear-5-Clouds-thumb-364x205.png)
 
 I'm originally from Ohio, but have lived all over the U.S.
